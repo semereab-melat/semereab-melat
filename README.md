@@ -1,6 +1,6 @@
-# Hi There! 👋
+# Hi, I'm Melat Zerai Semereab 👋🌟
 
-I'm Melat Zerai Semereab, a Masters graduate in Software Development from Ulster University. I specialize in Java and C# (.NET), with a passion for crafting efficient and scalable backend solutions. 🚀
+I'm a Masters graduate in Software Development from Ulster University. I specialize in Java and C# (.NET), with a passion for crafting efficient and scalable backend solutions. 🚀
 
 👨‍💻 Currently, I'm diving deep into personal projects and working on my portfolio website. It's a space where my professional journey and personal creativity meet.
 
